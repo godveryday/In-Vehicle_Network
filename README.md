@@ -244,15 +244,13 @@ DRC설정값은 위와 같음
 
 ## Automotive Ethernet 
 
-Sockets 
-
-IP : 컴퓨터만 가리킴
-
-그 컴퓨터에서 어떤 특정한 서비스 : Port
 
 
 
 
+--
+
+## Some/IP
 
 
 
